@@ -32,3 +32,7 @@ The analysis code is written in Python and requires the following dependencies:
 - matplotlib
 - seaborn
 
+## Link of the project:
+- Github repository: https://github.com/tuanpham265/Developer-Survery-Analysis/tree/main
+- Medium blog spot: https://medium.com/@tuanphamvan265/unveiling-the-developer-landscape-insights-from-a-global-survey-de24f7d4788f
+
