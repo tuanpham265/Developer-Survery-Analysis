@@ -9,7 +9,6 @@ Link of the dataset: https://insights.stackoverflow.com/survey
 
 ## Analysis Files
 
-- `data.csv`: The dataset file in CSV format containing the developer survey responses.
 - `Developer_analysis.ipynb`: Jupyter Notebook file containing the Python code for the analysis.
 - `README.md`: This file, providing an overview of the analysis and repository.
 
