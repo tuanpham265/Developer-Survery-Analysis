@@ -5,6 +5,7 @@ This repository contains an analysis of developer salaries based on a dataset of
 ## Dataset
 
 The analysis is based on a dataset that includes information about developers, their salaries, demographics, and professional background. The dataset provides insights into the global developer community and serves as a basis for this analysis.
+Link of the dataset: https://insights.stackoverflow.com/survey
 
 ## Analysis Files
 
